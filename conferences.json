@@ -1,0 +1,204 @@
+{
+  "countries": [
+    {
+      "attendeeCount": 17,
+      "attendees": [
+        "mbigness@hubspotpartners.com",
+        "mkeeney@hubspotpartners.com",
+        "erozar@hubspotpartners.com",
+        "nkrell@hubspotpartners.com",
+        "tbras@hubspotpartners.com",
+        "cgraefe@hubspotpartners.com",
+        "eheckman@hubspotpartners.com",
+        "mlumley@hubspotpartners.com",
+        "ozak@hubspotpartners.com",
+        "pkihn@hubspotpartners.com",
+        "jsimar@hubspotpartners.com",
+        "bgolberg@hubspotpartners.com",
+        "bjedik@hubspotpartners.com",
+        "hdansbury@hubspotpartners.com",
+        "akagy@hubspotpartners.com",
+        "gspinello@hubspotpartners.com",
+        "zhanry@hubspotpartners.com"
+      ],
+      "name": "United States",
+      "startDate": "2017-05-24"
+    },
+    {
+      "attendeeCount": 16,
+      "attendees": [
+        "awollenburg@hubspotpartners.com",
+        "nswartzel@hubspotpartners.com",
+        "yrandazzo@hubspotpartners.com",
+        "hisenberg@hubspotpartners.com",
+        "gwebbink@hubspotpartners.com",
+        "sdymond@hubspotpartners.com",
+        "cpouliotte@hubspotpartners.com",
+        "gvinsant@hubspotpartners.com",
+        "emayen@hubspotpartners.com",
+        "ledmunson@hubspotpartners.com",
+        "ltawil@hubspotpartners.com",
+        "msharko@hubspotpartners.com",
+        "lespy@hubspotpartners.com",
+        "sdecena@hubspotpartners.com",
+        "jtancredi@hubspotpartners.com",
+        "cdefreitas@hubspotpartners.com"
+      ],
+      "name": "Ireland",
+      "startDate": "2017-04-22"
+    },
+    {
+      "attendeeCount": 14,
+      "attendees": [
+        "amanzano@hubspotpartners.com",
+        "rlieberg@hubspotpartners.com",
+        "smichello@hubspotpartners.com",
+        "vkeirn@hubspotpartners.com",
+        "ckolm@hubspotpartners.com",
+        "jsaltsman@hubspotpartners.com",
+        "tpentland@hubspotpartners.com",
+        "eardeneaux@hubspotpartners.com",
+        "rvest@hubspotpartners.com",
+        "jharle@hubspotpartners.com",
+        "tyekel@hubspotpartners.com",
+        "kmattison@hubspotpartners.com",
+        "momtiveros@hubspotpartners.com",
+        "wrothenberg@hubspotpartners.com"
+      ],
+      "name": "Spain",
+      "startDate": "2017-04-30"
+    },
+    {
+      "attendeeCount": 14,
+      "attendees": [
+        "dailstock@hubspotpartners.com",
+        "kbendig@hubspotpartners.com",
+        "scoutino@hubspotpartners.com",
+        "lkonty@hubspotpartners.com",
+        "tdesjardins@hubspotpartners.com",
+        "amclouth@hubspotpartners.com",
+        "ncormack@hubspotpartners.com",
+        "bdelagol@hubspotpartners.com",
+        "ccarloni@hubspotpartners.com",
+        "amesenbrink@hubspotpartners.com",
+        "bwittmer@hubspotpartners.com",
+        "owestcoat@hubspotpartners.com",
+        "rpefferkorn@hubspotpartners.com",
+        "amikkelson@hubspotpartners.com"
+      ],
+      "name": "Mexico",
+      "startDate": "2017-04-29"
+    },
+    {
+      "attendeeCount": 15,
+      "attendees": [
+        "dhottell@hubspotpartners.com",
+        "jdilliner@hubspotpartners.com",
+        "jattig@hubspotpartners.com",
+        "mkohs@hubspotpartners.com",
+        "tshipmen@hubspotpartners.com",
+        "dhiefnar@hubspotpartners.com",
+        "mwaldroop@hubspotpartners.com",
+        "atucholski@hubspotpartners.com",
+        "bblanchard@hubspotpartners.com",
+        "ewrighten@hubspotpartners.com",
+        "ldoolen@hubspotpartners.com",
+        "eklimko@hubspotpartners.com",
+        "tscogin@hubspotpartners.com",
+        "lminato@hubspotpartners.com",
+        "vbussy@hubspotpartners.com"
+      ],
+      "name": "Canada",
+      "startDate": "2017-06-26"
+    },
+    {
+      "attendeeCount": 15,
+      "attendees": [
+        "dpintos@hubspotpartners.com",
+        "astrouse@hubspotpartners.com",
+        "bclore@hubspotpartners.com",
+        "sbazzanella@hubspotpartners.com",
+        "jpacific@hubspotpartners.com",
+        "cfore@hubspotpartners.com",
+        "mnuessen@hubspotpartners.com",
+        "mpalladino@hubspotpartners.com",
+        "dlepre@hubspotpartners.com",
+        "jcharnoski@hubspotpartners.com",
+        "lensz@hubspotpartners.com",
+        "jmcpartland@hubspotpartners.com",
+        "lkortge@hubspotpartners.com",
+        "lvannostrand@hubspotpartners.com",
+        "mcrantz@hubspotpartners.com"
+      ],
+      "name": "Singapore",
+      "startDate": "2017-06-02"
+    },
+    {
+      "attendeeCount": 15,
+      "attendees": [
+        "kigwe@hubspotpartners.com",
+        "mcianci@hubspotpartners.com",
+        "abuechler@hubspotpartners.com",
+        "mrivette@hubspotpartners.com",
+        "nmcclenty@hubspotpartners.com",
+        "ecarol@hubspotpartners.com",
+        "sdelmar@hubspotpartners.com",
+        "jkully@hubspotpartners.com",
+        "gdehne@hubspotpartners.com",
+        "ccohen@hubspotpartners.com",
+        "dleo@hubspotpartners.com",
+        "gcolinger@hubspotpartners.com",
+        "mzupfer@hubspotpartners.com",
+        "ischouten@hubspotpartners.com",
+        "axiang@hubspotpartners.com"
+      ],
+      "name": "Japan",
+      "startDate": "2017-05-05"
+    },
+    {
+      "attendeeCount": 17,
+      "attendees": [
+        "egillming@hubspotpartners.com",
+        "rboeke@hubspotpartners.com",
+        "mkubes@hubspotpartners.com",
+        "ameluso@hubspotpartners.com",
+        "tsutphin@hubspotpartners.com",
+        "bluckner@hubspotpartners.com",
+        "knoseff@hubspotpartners.com",
+        "mpuleo@hubspotpartners.com",
+        "dcordrey@hubspotpartners.com",
+        "qderksen@hubspotpartners.com",
+        "mcapell@hubspotpartners.com",
+        "jgerten@hubspotpartners.com",
+        "jserrant@hubspotpartners.com",
+        "egaebler@hubspotpartners.com",
+        "lroady@hubspotpartners.com",
+        "aantonucci@hubspotpartners.com",
+        "slafuente@hubspotpartners.com"
+      ],
+      "name": "United Kingdom",
+      "startDate": "2017-04-27"
+    },
+    {
+      "attendeeCount": 14,
+      "attendees": [
+        "dbruechert@hubspotpartners.com",
+        "bdobes@hubspotpartners.com",
+        "tsandman@hubspotpartners.com",
+        "mprevet@hubspotpartners.com",
+        "sallshouse@hubspotpartners.com",
+        "raguinaga@hubspotpartners.com",
+        "svanhofwegen@hubspotpartners.com",
+        "mbenno@hubspotpartners.com",
+        "gkyzer@hubspotpartners.com",
+        "jaument@hubspotpartners.com",
+        "nkorvin@hubspotpartners.com",
+        "akirchgessner@hubspotpartners.com",
+        "cuptmor@hubspotpartners.com",
+        "gwisz@hubspotpartners.com"
+      ],
+      "name": "France",
+      "startDate": "2017-06-15"
+    }
+  ]
+}
